@@ -20,7 +20,7 @@
   <br/>
     
   <div>
-    <Strong>✉️Email✉️</Strong><br>yoohsohee789@gmail.com<br>
+    <Strong>✉️Email✉️</Strong><br>yuhsohee789@gmail.com<br>
   </div>
   
 
